@@ -1,0 +1,2 @@
+# Data-Analysis-of-Expenditures-Data
+Data is from 1992 over a number of municipalities in New York. The response is expenditures per persons and the income-related factors are the predictor variables and are continuous hence Linear Regression Model is used for predictions on the subsetted data which provides the evidence for the increasing impact on the response variable. In conclusion, I found that the wealth and density are having increasing impact on the expenditure while the growth rate and Intergovernmental funds are having decreasing impact for the future predictions
